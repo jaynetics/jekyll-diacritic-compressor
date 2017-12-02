@@ -1,4 +1,4 @@
-# Jekyll::DiacriticCompressor
+# JekyllDiacriticCompressor
 
 This is a sanitization plugin.
 
