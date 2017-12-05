@@ -1,5 +1,9 @@
 # JekyllDiacriticCompressor
 
+[![Gem Version](https://badge.fury.io/rb/jekyll-diacritic-compressor.svg)](http://badge.fury.io/rb/jekyll-diacritic-compressor)
+[![Build Status](https://travis-ci.org/janosch-x/jekyll-diacritic-compressor.svg?branch=master)](https://travis-ci.org/janosch-x/jekyll-diacritic-compressor)
+[![Dependency Status](https://gemnasium.com/janosch-x/jekyll-diacritic-compressor.svg)](https://gemnasium.com/janosch-x/jekyll-diacritic-compressor)
+
 This is a sanitization plugin.
 
 It turns characters with combining diacritical marks into their single-codepoint equivalent.
