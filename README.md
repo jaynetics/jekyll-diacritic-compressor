@@ -1,7 +1,7 @@
 # JekyllDiacriticCompressor
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-diacritic-compressor.svg)](http://badge.fury.io/rb/jekyll-diacritic-compressor)
-[![Build Status](https://travis-ci.org/janosch-x/jekyll-diacritic-compressor.svg?branch=master)](https://travis-ci.org/janosch-x/jekyll-diacritic-compressor)
+[![Build Status](https://api.travis-ci.com/jaynetics/jekyll-diacritic-compressor.svg?branch=master)](https://travis-ci.com/github/jaynetics/jekyll-diacritic-compressor)
 
 This is a sanitization plugin.
 
